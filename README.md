@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taniya Singh</h1>
-<h3 align="center">Computer Science Student • Machine Learning • Backend Development</h3>
+<h3 align="center">Computer Science Student • Machine Learning • App Development</h3>
 
 <p align="center">
   <a href="mailto:taniyasingh0708@gmail.com">
